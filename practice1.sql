@@ -1,4 +1,4 @@
-select 
+　select 
     case c.gender
         when 1 then '男性'
         when 2 then '女性'
